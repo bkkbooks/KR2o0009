@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR2o0009/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2o0009/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 涉史隨筆
+  date: '2015-08-24 22:55:56.253544'
+  source:
+    repository: kanripo
+    path: KR2o0009
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2o0009_000-WYG.yaml, hash: 'sha256:f3235b71a3398f32fea2372c61e358f6e7c5b2829c89f7d9328278ef1ea77bcb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2o0009_000-WYG.markers.yaml, hash: 'sha256:688e6a3030da33ac9871bfd471547a23294ebb71dfd18c428c4d2d793f5675ec'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2o0009_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 397
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2o0009_WYG_000-3a
+    span:
+    - body
+    - 397
+    - 747
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2o0009_WYG_000-5a
+    span:
+    - body
+    - 747
+    - 11255
+  label: 渉史隨筆
+  type: section
+  level: 1
+hash: sha256:8f53891f677794872f8832d0af4d678895b0cc5983e1bec9116e3ac73aa00751
