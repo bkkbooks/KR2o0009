@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2o0009_000-WYG.yaml, hash: 'sha256:f3235b71a3398f32fea2372c61e358f6e7c5b2829c89f7d9328278ef1ea77bcb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2o0009_000-WYG.markers.yaml, hash: 'sha256:688e6a3030da33ac9871bfd471547a23294ebb71dfd18c428c4d2d793f5675ec'}
+  - {seq: 0, role: markers, filename: assets/KR2o0009_000-WYG.markers.yaml, hash: 'sha256:39e88eff6a8d8f431aa2b1947258506212108d7ddfdeb6cba697cbc02f9e2747'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 渉史隨筆
   type: section
   level: 1
-hash: sha256:8f53891f677794872f8832d0af4d678895b0cc5983e1bec9116e3ac73aa00751
+hash: sha256:c25438d0cdc0a4a84be678423a88e48db3f9e169807d74486c561110d9072339

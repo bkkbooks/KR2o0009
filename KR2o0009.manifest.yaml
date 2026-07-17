@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2o0009_000.yaml, hash: 'sha256:325dd8434453aa66d911c9d6f62b0914ed3f6bffc36372fba7e8e514670cbb77'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2o0009_000.markers.yaml, hash: 'sha256:01b3687eba73ad2aea1c3a31c56381c6398321837c71d3cc3366934176f05524'}
+  - {seq: 0, role: markers, filename: assets/KR2o0009_000.markers.yaml, hash: 'sha256:a3fea87b8fbc8000179c1a83669bbee0aa747fcfedfe15576883c12d3a95ab8b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,7 +54,7 @@ table_of_contents:
   label: 渉史隨筆
   type: section
   level: 1
-hash: sha256:90e177add4cf44eb9567772abc67f80325dfb1e0b383ea02c39b46e4d0b46579
+hash: sha256:21e678c22468c7f2e0bfa39eae49f2a1e9d5bad781f23ed2662990f9d27124a2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
